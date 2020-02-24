@@ -1,6 +1,9 @@
 # text-summarize-app
+
 Using Django and Text Summarize Algorithm
+
 This is the Heroku deployment of my app: https://text-summarize-app.herokuapp.com/
+
 How to deploy:
 1. Clone the app to the local
 2. Set up Git  : https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
